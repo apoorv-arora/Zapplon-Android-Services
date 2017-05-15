@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent1">#00000000</color>
+    <color name="zapplon_red">#e86a30</color>
+    <color name="zapplon_blue">#00AACC</color>
+    <!-- #51a351 -->
+    <color name="zdhl">#3D3D3D</color>
+
+    <!-- crop colors -->
+
+    <!-- Seperator Colors -->
+
+    <!-- New shades of ZDark -->
+
+    <!-- Categories -->
+
+
+    <!-- Zapplon colors -->
+    <!-- Zapplon colors -->
+    <color name="icon_color">#BABCBE</color>
+    <color name="status_bar">#22252D</color>
+    <color name="color_blue">#262933</color>
+    <color name="active_color">#FF8703</color>
+    <color name="active_color_dark">#FF8703</color>
+    <color name="active_color_transparent_twenty">#33FF8703</color>
+    <color name="active_color_transparent_forty">#66FF8703</color>
+    <color name="active_color_transparent_fifty">#80FF8703</color>
+    <color name="active_color_transparent_sixty">#91FF8703</color>
+    <color name="active_color_transparent_eighty">#BAFF8703</color>
+    <color name="all_icon_color">#BABCBE</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#808083</color>
+    <color name="zapplon_yellow">#FFD35D</color>
+    <color name="zapplon_green">#A6C85E</color>
+    <color name="zapplon_orange">#FF8D10</color>
+</resources>

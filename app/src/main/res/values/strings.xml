@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BroadcastCheck</string>
+    <string name="could_not_connect">Could not connect to server</string>
+
+    <!-- Error messages -->
+    <string name="no_internet_message">Seems like you are not connected to the internet. Please try again later.</string>
+    <string name="error_try_again">Something went wrong. \n Please try again later.</string>
+    <string name="err_occurred">An error occurred. Please try again.</string>
+    <string name="offline_message">Your internet is down, but no problem, you can still book auto/cab from the below points.</string>
+    <string name="todays_bookings">Today\'s Bookings</string>
+</resources>
